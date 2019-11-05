@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 using namespace std;
-int const n = 10;
+int const n = 1000;
 int result = 0;
 int main()
 {

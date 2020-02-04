@@ -1,6 +1,6 @@
-﻿#include <iostream>
+#include <iostream>
 using namespace std;
-int const i = 3999999;
+int j;
 int result = 0;
 int Fib(int n)
 {
@@ -14,7 +14,11 @@ int Fib(int n)
 
 int main()
 {
-	for (int k = 0; k < i; k++)
+	while (Fib(j) < 4000000)
+	{
+		j++;
+	}
+	for (int k = 0; k < j; k++)
 	{
 		if (Fib(k) % 2 == 0)
 		{

@@ -15,3 +15,7 @@ Smallest multiple
 
 Problem 6
 Sum square difference
+
+Problem 7
+10001st prime
+  

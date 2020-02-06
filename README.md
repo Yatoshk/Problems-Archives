@@ -7,6 +7,9 @@ Multiples of 3 and 5
 Problem 2
 Even Fibonacci numbers
 
+Problem 4
+Largest palindrome product
+
 Problem 5
 Smallest multiple
 
